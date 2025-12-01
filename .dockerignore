@@ -1,0 +1,41 @@
+# Control de versiones
+.git
+.gitignore
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Configuraciones locales
+*.env
+.vscode
+.idea
+
+# Dependencias pesadas
+node_modules
+target
+bin
+obj
+build
+.gradle
+packages
+
+# Archivos de Flutter/Dart
+.dart_tool
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# Archivos de compilación
+*.class
+*.dll
+*.exe
+*.so
+*.dylib
+*.pdb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
